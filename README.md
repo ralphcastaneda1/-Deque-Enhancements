@@ -19,6 +19,3 @@ Deque61B & Guitar Hero Demo
 5. **Unit tests** in `tests/`  
    - `ArrayDeque61BTest.java`  
    - `LinkedListDeque61BTest.java`
-
-## 📁 Project Structure
-
